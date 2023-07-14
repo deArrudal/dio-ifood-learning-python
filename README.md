@@ -47,6 +47,8 @@ DOMINANDO O PYTHON PARA CIÊNCIAS DE DADOS
     * Initial Release
 *0.2
     * Development of the project "Banking System"
+* 0.3
+    * Add function and collection files
 
 ## License
 

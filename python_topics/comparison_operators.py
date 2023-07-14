@@ -3,20 +3,20 @@
 number_1 = 200
 number_2 = 400
 
-# equal
+# equal.
 print(number_1 == (number_2 / 2))
 
-# not equal
+# not equal.
 print(number_1 != number_2)
 
-# greater than
+# greater than.
 print(number_1 > number_2)
 
-# less than
+# less than.
 print(number_1 < number_2)
 
-# greater or equal
+# greater or equal.
 print(number_1 >= number_2)
 
-# less or equal
+# less or equal.
 print(number_1 <= number_2)

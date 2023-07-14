@@ -3,12 +3,14 @@
 
 fruits = ["banana","apple","pineapple"] 
 
-# "in" returns True if a sequence with the specified value is present in the object.
+# "in" returns True if a sequence with the specified value is present in the 
+# object.
 print("lemon" in fruits)
 print("apple" in fruits)
 print("Banana" in fruits) # case sensitive
 
-# "not in" returns True if a sequence with the specified value is not present in the object.
+# "not in" returns True if a sequence with the specified value is not present 
+# in the object.
 print("lemon" not in fruits)
 
 # e.g.:

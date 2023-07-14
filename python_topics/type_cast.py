@@ -14,6 +14,6 @@ print(type(number))
 number = str(number)
 print(type(number))
 
-# implicit casting
+# implicit casting.
 print(100 / 2) # division
 print(100 // 2) # integer division

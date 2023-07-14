@@ -11,11 +11,11 @@ print(sample.title())
 sample = "  Welcome to Brazil  "
 print(sample)
 
-# strip whitespaces from string
+# strip whitespaces from string.
 print(sample.strip())
-# strip right whitespaces from string
+# strip right whitespaces from string.
 print(sample.rstrip())
-# strip left whitespaces from string
+# strip left whitespaces from string.
 print(sample.lstrip())
 
 title = "Python"
