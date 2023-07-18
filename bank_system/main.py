@@ -1,6 +1,5 @@
 # Implementação de um simples caixa eletrônico.
-menu = """
-Caixa Eletrônico - Operações
+menu = """Caixa Eletrônico - Operações
 [d] Depositar
 [s] Sacar
 [e] Extrato
@@ -63,4 +62,6 @@ while True:
     else:
         print("Operação inválida, por favor tente novamente.")
 
-print("Volte Sempre!\n")
+    print()
+
+print("Volte Sempre!")
